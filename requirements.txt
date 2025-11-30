@@ -1,0 +1,18 @@
+streamlit
+fastapi
+uvicorn
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+openai
+selenium
+rank_bm25
+python-dotenv
+pinecone-client  # optional
+chromedriver-binary  # optional for selenium
+tqdm
+lxml
+urllib3
+fastapi
+uvicorn
